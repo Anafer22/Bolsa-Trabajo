@@ -15,6 +15,7 @@
         <title>Principal</title>
     </head>
     <body>
+        <h1>Laura</h1>
        <a href="views/Registro_Matricula.html" >
            <button class="btn btn-outline-primary" type="submit">Registro Matricula Egresado</button>
        </a>
