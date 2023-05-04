@@ -16,6 +16,7 @@
     </head>
     <body>
         <h1>Laura</h1>
+        <<h2>Ana Fernanda</h2>
        <a href="views/Registro_Matricula.html" >
            <button class="btn btn-outline-primary" type="submit">Registro Matricula Egresado</button>
        </a>
